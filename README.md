@@ -17,4 +17,16 @@
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/singhkislay190-gif/LEETCODE-QUESTIONS/tree/master/0009-palindrome-number) |
+## String
+|  |
+| ------- |
+| [0010-regular-expression-matching](https://github.com/singhkislay190-gif/LEETCODE-QUESTIONS/tree/master/0010-regular-expression-matching) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0010-regular-expression-matching](https://github.com/singhkislay190-gif/LEETCODE-QUESTIONS/tree/master/0010-regular-expression-matching) |
+## Recursion
+|  |
+| ------- |
+| [0010-regular-expression-matching](https://github.com/singhkislay190-gif/LEETCODE-QUESTIONS/tree/master/0010-regular-expression-matching) |
 <!---LeetCode Topics End-->
