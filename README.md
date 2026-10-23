@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/singhkislay190-gif/LEETCODE-QUESTIONS/tree/master/0011-container-with-most-water) |
 | [0682-baseball-game](https://github.com/singhkislay190-gif/LEETCODE-QUESTIONS/tree/master/0682-baseball-game) |
 ## Stack
 |  |
@@ -29,4 +30,12 @@
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/singhkislay190-gif/LEETCODE-QUESTIONS/tree/master/0010-regular-expression-matching) |
+## Two Pointers
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/singhkislay190-gif/LEETCODE-QUESTIONS/tree/master/0011-container-with-most-water) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/singhkislay190-gif/LEETCODE-QUESTIONS/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
