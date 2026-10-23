@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/singhkislay190-gif/LEETCODE-QUESTIONS/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/singhkislay190-gif/LEETCODE-QUESTIONS/tree/master/0015-3sum) |
 | [0682-baseball-game](https://github.com/singhkislay190-gif/LEETCODE-QUESTIONS/tree/master/0682-baseball-game) |
 ## Stack
 |  |
@@ -38,6 +39,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/singhkislay190-gif/LEETCODE-QUESTIONS/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/singhkislay190-gif/LEETCODE-QUESTIONS/tree/master/0015-3sum) |
 ## Greedy
 |  |
 | ------- |
@@ -47,4 +49,8 @@
 | ------- |
 | [0012-integer-to-roman](https://github.com/singhkislay190-gif/LEETCODE-QUESTIONS/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/singhkislay190-gif/LEETCODE-QUESTIONS/tree/master/0013-roman-to-integer) |
+## Sorting
+|  |
+| ------- |
+| [0015-3sum](https://github.com/singhkislay190-gif/LEETCODE-QUESTIONS/tree/master/0015-3sum) |
 <!---LeetCode Topics End-->
