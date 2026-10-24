@@ -31,6 +31,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/singhkislay190-gif/LEETCODE-QUESTIONS/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/singhkislay190-gif/LEETCODE-QUESTIONS/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/singhkislay190-gif/LEETCODE-QUESTIONS/tree/master/0006-zigzag-conversion) |
 | [0010-regular-expression-matching](https://github.com/singhkislay190-gif/LEETCODE-QUESTIONS/tree/master/0010-regular-expression-matching) |
 | [0012-integer-to-roman](https://github.com/singhkislay190-gif/LEETCODE-QUESTIONS/tree/master/0012-integer-to-roman) |
@@ -40,6 +41,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/singhkislay190-gif/LEETCODE-QUESTIONS/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/singhkislay190-gif/LEETCODE-QUESTIONS/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/singhkislay190-gif/LEETCODE-QUESTIONS/tree/master/0022-generate-parentheses) |
 ## Recursion
@@ -51,6 +53,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/singhkislay190-gif/LEETCODE-QUESTIONS/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/singhkislay190-gif/LEETCODE-QUESTIONS/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/singhkislay190-gif/LEETCODE-QUESTIONS/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/singhkislay190-gif/LEETCODE-QUESTIONS/tree/master/0016-3sum-closest) |
@@ -102,4 +105,8 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/singhkislay190-gif/LEETCODE-QUESTIONS/tree/master/0004-median-of-two-sorted-arrays) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/singhkislay190-gif/LEETCODE-QUESTIONS/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
