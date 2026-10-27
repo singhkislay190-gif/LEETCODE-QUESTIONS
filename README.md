@@ -117,4 +117,8 @@
 |  |
 | ------- |
 | [0739-daily-temperatures](https://github.com/singhkislay190-gif/LEETCODE-QUESTIONS/tree/master/0739-daily-temperatures) |
+## Database
+|  |
+| ------- |
+| [1693-daily-leads-and-partners](https://github.com/singhkislay190-gif/LEETCODE-QUESTIONS/tree/master/1693-daily-leads-and-partners) |
 <!---LeetCode Topics End-->
