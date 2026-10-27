@@ -12,16 +12,19 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/singhkislay190-gif/LEETCODE-QUESTIONS/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/singhkislay190-gif/LEETCODE-QUESTIONS/tree/master/0088-merge-sorted-array) |
 | [0682-baseball-game](https://github.com/singhkislay190-gif/LEETCODE-QUESTIONS/tree/master/0682-baseball-game) |
+| [0735-asteroid-collision](https://github.com/singhkislay190-gif/LEETCODE-QUESTIONS/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/singhkislay190-gif/LEETCODE-QUESTIONS/tree/master/0739-daily-temperatures) |
 ## Stack
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/singhkislay190-gif/LEETCODE-QUESTIONS/tree/master/0682-baseball-game) |
+| [0735-asteroid-collision](https://github.com/singhkislay190-gif/LEETCODE-QUESTIONS/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/singhkislay190-gif/LEETCODE-QUESTIONS/tree/master/0739-daily-temperatures) |
 ## Simulation
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/singhkislay190-gif/LEETCODE-QUESTIONS/tree/master/0682-baseball-game) |
+| [0735-asteroid-collision](https://github.com/singhkislay190-gif/LEETCODE-QUESTIONS/tree/master/0735-asteroid-collision) |
 ## Math
 |  |
 | ------- |
