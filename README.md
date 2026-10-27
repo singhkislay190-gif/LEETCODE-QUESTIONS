@@ -12,10 +12,12 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/singhkislay190-gif/LEETCODE-QUESTIONS/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/singhkislay190-gif/LEETCODE-QUESTIONS/tree/master/0088-merge-sorted-array) |
 | [0682-baseball-game](https://github.com/singhkislay190-gif/LEETCODE-QUESTIONS/tree/master/0682-baseball-game) |
+| [0739-daily-temperatures](https://github.com/singhkislay190-gif/LEETCODE-QUESTIONS/tree/master/0739-daily-temperatures) |
 ## Stack
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/singhkislay190-gif/LEETCODE-QUESTIONS/tree/master/0682-baseball-game) |
+| [0739-daily-temperatures](https://github.com/singhkislay190-gif/LEETCODE-QUESTIONS/tree/master/0739-daily-temperatures) |
 ## Simulation
 |  |
 | ------- |
@@ -111,4 +113,8 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/singhkislay190-gif/LEETCODE-QUESTIONS/tree/master/0005-longest-palindromic-substring) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/singhkislay190-gif/LEETCODE-QUESTIONS/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
