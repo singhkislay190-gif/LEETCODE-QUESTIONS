@@ -17,6 +17,7 @@
 ## Stack
 |  |
 | ------- |
+| [0402-remove-k-digits](https://github.com/singhkislay190-gif/LEETCODE-QUESTIONS/tree/master/0402-remove-k-digits) |
 | [0682-baseball-game](https://github.com/singhkislay190-gif/LEETCODE-QUESTIONS/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/singhkislay190-gif/LEETCODE-QUESTIONS/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/singhkislay190-gif/LEETCODE-QUESTIONS/tree/master/0739-daily-temperatures) |
@@ -46,6 +47,7 @@
 | [0013-roman-to-integer](https://github.com/singhkislay190-gif/LEETCODE-QUESTIONS/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/singhkislay190-gif/LEETCODE-QUESTIONS/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/singhkislay190-gif/LEETCODE-QUESTIONS/tree/master/0022-generate-parentheses) |
+| [0402-remove-k-digits](https://github.com/singhkislay190-gif/LEETCODE-QUESTIONS/tree/master/0402-remove-k-digits) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -74,6 +76,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/singhkislay190-gif/LEETCODE-QUESTIONS/tree/master/0011-container-with-most-water) |
+| [0402-remove-k-digits](https://github.com/singhkislay190-gif/LEETCODE-QUESTIONS/tree/master/0402-remove-k-digits) |
 ## Hash Table
 |  |
 | ------- |
@@ -124,6 +127,7 @@
 ## Monotonic Stack
 |  |
 | ------- |
+| [0402-remove-k-digits](https://github.com/singhkislay190-gif/LEETCODE-QUESTIONS/tree/master/0402-remove-k-digits) |
 | [0739-daily-temperatures](https://github.com/singhkislay190-gif/LEETCODE-QUESTIONS/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/singhkislay190-gif/LEETCODE-QUESTIONS/tree/master/0901-online-stock-span) |
 ## Database
