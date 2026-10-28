@@ -20,6 +20,7 @@
 | [0682-baseball-game](https://github.com/singhkislay190-gif/LEETCODE-QUESTIONS/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/singhkislay190-gif/LEETCODE-QUESTIONS/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/singhkislay190-gif/LEETCODE-QUESTIONS/tree/master/0739-daily-temperatures) |
+| [0901-online-stock-span](https://github.com/singhkislay190-gif/LEETCODE-QUESTIONS/tree/master/0901-online-stock-span) |
 ## Simulation
 |  |
 | ------- |
@@ -124,8 +125,17 @@
 |  |
 | ------- |
 | [0739-daily-temperatures](https://github.com/singhkislay190-gif/LEETCODE-QUESTIONS/tree/master/0739-daily-temperatures) |
+| [0901-online-stock-span](https://github.com/singhkislay190-gif/LEETCODE-QUESTIONS/tree/master/0901-online-stock-span) |
 ## Database
 |  |
 | ------- |
 | [1693-daily-leads-and-partners](https://github.com/singhkislay190-gif/LEETCODE-QUESTIONS/tree/master/1693-daily-leads-and-partners) |
+## Design
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/singhkislay190-gif/LEETCODE-QUESTIONS/tree/master/0901-online-stock-span) |
+## Data Stream
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/singhkislay190-gif/LEETCODE-QUESTIONS/tree/master/0901-online-stock-span) |
 <!---LeetCode Topics End-->
