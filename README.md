@@ -17,6 +17,7 @@
 ## Stack
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/singhkislay190-gif/LEETCODE-QUESTIONS/tree/master/0155-min-stack) |
 | [0402-remove-k-digits](https://github.com/singhkislay190-gif/LEETCODE-QUESTIONS/tree/master/0402-remove-k-digits) |
 | [0682-baseball-game](https://github.com/singhkislay190-gif/LEETCODE-QUESTIONS/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/singhkislay190-gif/LEETCODE-QUESTIONS/tree/master/0735-asteroid-collision) |
@@ -137,6 +138,7 @@
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/singhkislay190-gif/LEETCODE-QUESTIONS/tree/master/0155-min-stack) |
 | [0901-online-stock-span](https://github.com/singhkislay190-gif/LEETCODE-QUESTIONS/tree/master/0901-online-stock-span) |
 | [0933-number-of-recent-calls](https://github.com/singhkislay190-gif/LEETCODE-QUESTIONS/tree/master/0933-number-of-recent-calls) |
 ## Data Stream
