@@ -11,6 +11,7 @@
 | [0016-3sum-closest](https://github.com/singhkislay190-gif/LEETCODE-QUESTIONS/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/singhkislay190-gif/LEETCODE-QUESTIONS/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/singhkislay190-gif/LEETCODE-QUESTIONS/tree/master/0088-merge-sorted-array) |
+| [0622-design-circular-queue](https://github.com/singhkislay190-gif/LEETCODE-QUESTIONS/tree/master/0622-design-circular-queue) |
 | [0682-baseball-game](https://github.com/singhkislay190-gif/LEETCODE-QUESTIONS/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/singhkislay190-gif/LEETCODE-QUESTIONS/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/singhkislay190-gif/LEETCODE-QUESTIONS/tree/master/0739-daily-temperatures) |
@@ -105,6 +106,7 @@
 | [0021-merge-two-sorted-lists](https://github.com/singhkislay190-gif/LEETCODE-QUESTIONS/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/singhkislay190-gif/LEETCODE-QUESTIONS/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/singhkislay190-gif/LEETCODE-QUESTIONS/tree/master/0025-reverse-nodes-in-k-group) |
+| [0622-design-circular-queue](https://github.com/singhkislay190-gif/LEETCODE-QUESTIONS/tree/master/0622-design-circular-queue) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -139,6 +141,7 @@
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/singhkislay190-gif/LEETCODE-QUESTIONS/tree/master/0155-min-stack) |
+| [0622-design-circular-queue](https://github.com/singhkislay190-gif/LEETCODE-QUESTIONS/tree/master/0622-design-circular-queue) |
 | [0901-online-stock-span](https://github.com/singhkislay190-gif/LEETCODE-QUESTIONS/tree/master/0901-online-stock-span) |
 | [0933-number-of-recent-calls](https://github.com/singhkislay190-gif/LEETCODE-QUESTIONS/tree/master/0933-number-of-recent-calls) |
 ## Data Stream
@@ -149,5 +152,6 @@
 ## Queue
 |  |
 | ------- |
+| [0622-design-circular-queue](https://github.com/singhkislay190-gif/LEETCODE-QUESTIONS/tree/master/0622-design-circular-queue) |
 | [0933-number-of-recent-calls](https://github.com/singhkislay190-gif/LEETCODE-QUESTIONS/tree/master/0933-number-of-recent-calls) |
 <!---LeetCode Topics End-->
