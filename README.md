@@ -10,6 +10,7 @@
 | [0015-3sum](https://github.com/singhkislay190-gif/LEETCODE-QUESTIONS/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/singhkislay190-gif/LEETCODE-QUESTIONS/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/singhkislay190-gif/LEETCODE-QUESTIONS/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0045-jump-game-ii](https://github.com/singhkislay190-gif/LEETCODE-QUESTIONS/tree/master/0045-jump-game-ii) |
 | [0088-merge-sorted-array](https://github.com/singhkislay190-gif/LEETCODE-QUESTIONS/tree/master/0088-merge-sorted-array) |
 | [0622-design-circular-queue](https://github.com/singhkislay190-gif/LEETCODE-QUESTIONS/tree/master/0622-design-circular-queue) |
 | [0682-baseball-game](https://github.com/singhkislay190-gif/LEETCODE-QUESTIONS/tree/master/0682-baseball-game) |
@@ -56,6 +57,7 @@
 | [0005-longest-palindromic-substring](https://github.com/singhkislay190-gif/LEETCODE-QUESTIONS/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/singhkislay190-gif/LEETCODE-QUESTIONS/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/singhkislay190-gif/LEETCODE-QUESTIONS/tree/master/0022-generate-parentheses) |
+| [0045-jump-game-ii](https://github.com/singhkislay190-gif/LEETCODE-QUESTIONS/tree/master/0045-jump-game-ii) |
 ## Recursion
 |  |
 | ------- |
@@ -78,6 +80,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/singhkislay190-gif/LEETCODE-QUESTIONS/tree/master/0011-container-with-most-water) |
+| [0045-jump-game-ii](https://github.com/singhkislay190-gif/LEETCODE-QUESTIONS/tree/master/0045-jump-game-ii) |
 | [0402-remove-k-digits](https://github.com/singhkislay190-gif/LEETCODE-QUESTIONS/tree/master/0402-remove-k-digits) |
 ## Hash Table
 |  |
