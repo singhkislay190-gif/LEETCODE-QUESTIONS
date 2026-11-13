@@ -2,28 +2,33 @@
 class Solution {
     public ListNode removeNthFromEnd(ListNode head, int n) {
 
-        // Dummy node helps when we need to remove the head
-        ListNode dummy = new ListNode(0);
-        dummy.next = head;
+        // Step 1: Calculate length
+        int length = 0;
+        ListNode temp = head;
 
-        ListNode fast = dummy;
-        ListNode slow = dummy;
-
-        // Move fast pointer n steps ahead
-        for (int i = 0; i < n; i++) {
-            fast = fast.next;
+        while (temp != null) {
+            length++;
+            temp = temp.next;
         }
 
-        // Move both pointers until fast reaches the last node
-        while (fast.next != null) {
-            fast = fast.next;
-            slow = slow.next;
+        // Step 2: Find position from beginning
+        int position = length - n;
+
+        // Step 3: If first node needs to be deleted
+        if (position == 0) {
+            return head.next;
         }
 
-        // Remove the nth node from the end
-        slow.next = slow.next.next;
+        // Step 4: Traverse to previous node
+        temp = head;
 
-        // Return the updated head
-        return dummy.next;
+        for (int i = 0; i < position - 1; i++) {
+            temp = temp.next;
+        }
+
+        // Step 5: Delete the node
+        temp.next = temp.next.next;
+
+        return head;
     }
 }
