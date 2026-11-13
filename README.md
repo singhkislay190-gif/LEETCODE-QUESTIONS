@@ -20,6 +20,7 @@
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/singhkislay190-gif/LEETCODE-QUESTIONS/tree/master/0155-min-stack) |
+| [0234-palindrome-linked-list](https://github.com/singhkislay190-gif/LEETCODE-QUESTIONS/tree/master/0234-palindrome-linked-list) |
 | [0402-remove-k-digits](https://github.com/singhkislay190-gif/LEETCODE-QUESTIONS/tree/master/0402-remove-k-digits) |
 | [0682-baseball-game](https://github.com/singhkislay190-gif/LEETCODE-QUESTIONS/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/singhkislay190-gif/LEETCODE-QUESTIONS/tree/master/0735-asteroid-collision) |
@@ -66,6 +67,7 @@
 | [0021-merge-two-sorted-lists](https://github.com/singhkislay190-gif/LEETCODE-QUESTIONS/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/singhkislay190-gif/LEETCODE-QUESTIONS/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/singhkislay190-gif/LEETCODE-QUESTIONS/tree/master/0025-reverse-nodes-in-k-group) |
+| [0234-palindrome-linked-list](https://github.com/singhkislay190-gif/LEETCODE-QUESTIONS/tree/master/0234-palindrome-linked-list) |
 ## Two Pointers
 |  |
 | ------- |
@@ -76,6 +78,7 @@
 | [0019-remove-nth-node-from-end-of-list](https://github.com/singhkislay190-gif/LEETCODE-QUESTIONS/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/singhkislay190-gif/LEETCODE-QUESTIONS/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/singhkislay190-gif/LEETCODE-QUESTIONS/tree/master/0088-merge-sorted-array) |
+| [0234-palindrome-linked-list](https://github.com/singhkislay190-gif/LEETCODE-QUESTIONS/tree/master/0234-palindrome-linked-list) |
 ## Greedy
 |  |
 | ------- |
@@ -109,6 +112,7 @@
 | [0021-merge-two-sorted-lists](https://github.com/singhkislay190-gif/LEETCODE-QUESTIONS/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/singhkislay190-gif/LEETCODE-QUESTIONS/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/singhkislay190-gif/LEETCODE-QUESTIONS/tree/master/0025-reverse-nodes-in-k-group) |
+| [0234-palindrome-linked-list](https://github.com/singhkislay190-gif/LEETCODE-QUESTIONS/tree/master/0234-palindrome-linked-list) |
 | [0622-design-circular-queue](https://github.com/singhkislay190-gif/LEETCODE-QUESTIONS/tree/master/0622-design-circular-queue) |
 ## Bracket Sequences
 |  |
