@@ -41,6 +41,7 @@
 | [0009-palindrome-number](https://github.com/singhkislay190-gif/LEETCODE-QUESTIONS/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/singhkislay190-gif/LEETCODE-QUESTIONS/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/singhkislay190-gif/LEETCODE-QUESTIONS/tree/master/0013-roman-to-integer) |
+| [0029-divide-two-integers](https://github.com/singhkislay190-gif/LEETCODE-QUESTIONS/tree/master/0029-divide-two-integers) |
 ## String
 |  |
 | ------- |
@@ -180,4 +181,8 @@
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/singhkislay190-gif/LEETCODE-QUESTIONS/tree/master/0141-linked-list-cycle) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0029-divide-two-integers](https://github.com/singhkislay190-gif/LEETCODE-QUESTIONS/tree/master/0029-divide-two-integers) |
 <!---LeetCode Topics End-->
