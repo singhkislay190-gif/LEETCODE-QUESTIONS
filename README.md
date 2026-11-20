@@ -17,6 +17,7 @@
 | [0682-baseball-game](https://github.com/singhkislay190-gif/LEETCODE-QUESTIONS/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/singhkislay190-gif/LEETCODE-QUESTIONS/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/singhkislay190-gif/LEETCODE-QUESTIONS/tree/master/0739-daily-temperatures) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/singhkislay190-gif/LEETCODE-QUESTIONS/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Stack
 |  |
 | ------- |
@@ -142,6 +143,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/singhkislay190-gif/LEETCODE-QUESTIONS/tree/master/0004-median-of-two-sorted-arrays) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/singhkislay190-gif/LEETCODE-QUESTIONS/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -185,4 +187,8 @@
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/singhkislay190-gif/LEETCODE-QUESTIONS/tree/master/0029-divide-two-integers) |
+## Ternary Search
+|  |
+| ------- |
+| [0852-peak-index-in-a-mountain-array](https://github.com/singhkislay190-gif/LEETCODE-QUESTIONS/tree/master/0852-peak-index-in-a-mountain-array) |
 <!---LeetCode Topics End-->
